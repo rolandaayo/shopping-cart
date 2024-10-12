@@ -8,7 +8,7 @@ let listCartHtml = document.querySelector('.listCart');
 let iconCartSpan = document.querySelector('icon-cart span');
 
 let listProducts = [];
-let carts = []
+let carts = [];
 
 iconCart.addEventListener('click', () =>{
     body.classList.toggle('showCart')
@@ -62,7 +62,12 @@ const addToCart = (product_id) => {
         carts[positionThisProductInCart].quantity = carts[positionThisProductInCart].quantity + 1;
 
     }
-    console.log(carts)
+    addCartToHTML();
+}
+
+const addCartToHTML = () => {
+    listCartHtml.innerHTML = '';
+    if(carts.length > 0) {
 }
 
 const initApp = () => {
