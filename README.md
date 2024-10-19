@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Shopping - Cart Desktop Demo](../readme-images/desktop.png "Desktop Demo")
+![Shopping - Cart Desktop Demo](./readme-images./desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -48,7 +48,3 @@ git clone https://github.com/rolandaayo/shopping-cart.git
 ### Contact
 
 If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/rolandaayo).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
