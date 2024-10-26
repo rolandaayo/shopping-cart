@@ -11,7 +11,7 @@
 
   <h2 align="center">Shopping Cart - E-commerce Website</h2>
 
- Shopping Cart is a fully responsive e-commerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ Shopping Cart is a fully responsive shopping cart function for e-commerce websites, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://rolandaayo.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
