@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <h2 align="center">Shopping Cart - E-commerce Website</h2>
+  <h2 align="center">Shopping Cart - E-commerce Website Demo</h2>
 
  Shopping Cart is a fully responsive shopping cart function for e-commerce websites, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
