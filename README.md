@@ -1,19 +1,8 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/rolandaayo/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/rolandaayo/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/rolandaayo/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rolandaayo_?style=social)](https://twitter.com/intent/follow?screen_name=rolandaayo)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
-
-  <br />
-  <br />
-
-  <h2 align="center">Shopping Cart - E-commerce Website Demo</h2>
+<h2 align="center">Shopping Cart - E-commerce Website Demo</h2>
 
  Shopping Cart is a fully responsive shopping cart function for e-commerce websites, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://rolandaayo.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://rolandaayo.github.io/shopping-cart/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
