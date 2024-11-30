@@ -34,6 +34,8 @@ Windows:
 git clone https://github.com/rolandaayo/shopping-cart.git
 ```
 
-### Contact
+## 💬 Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/rolandaayo).
+If you have an offer, opportunity, or introduction that might make my life more interesting, email me at ibiwoyeroland@gmail.com.
+
+For the reasons stated above, I'll only respond to proposals that are matched for my schedule and interests.
